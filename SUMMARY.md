@@ -5,6 +5,8 @@
 * [AI资讯](ai-news.md)
 * [AI工具集](ai-toolkit.md)
 * [AI提示词](ai-prompt.md)
+* [AI应用开发](ai-app-dev.md)
 * [AI开源项目](ai-open-source.md)
 * [AI综合导航](ai-guide.md)
 * [AI技术学习](ai-technology.md)
+* [AI助力人类进步](ai-human.md)
